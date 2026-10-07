@@ -2,7 +2,7 @@ Estudo de Microsserviços com Spring
 Projeto desenvolvido para estudos de arquitetura de microsserviços utilizando Spring Boot e Spring Cloud.
 
 Projetos:
-- microsservicos — aplicação Loja
+- microsservicos-loja — aplicação Loja
 - fornecedor — aplicação Fornecedor
 - eureka-server — servidor de descoberta Eureka
 
